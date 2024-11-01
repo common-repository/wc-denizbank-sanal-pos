@@ -1,0 +1,106 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Denizbank WooCommerce\n"
+"POT-Creation-Date: 2023-02-12 20:02+0300\n"
+"PO-Revision-Date: 2023-02-12 20:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class/class-wc_denizpos_gateway.php:50
+msgid "Aktif/Pasif"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:51
+msgid "Etkinleştir"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:57
+msgid "Api Türü"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:61
+msgid "Test Ortam"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:62
+msgid "Canlı Ortam"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:66
+msgid "Ödeme Seçeneği Başlık"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:68
+msgid "Bu mesaj ödeme sırasında kullanıcıya gösterecektir."
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:73
+msgid "Açıklama"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:81
+msgid "Mağaza Numarası"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:87
+msgid "Kullanıcı Kodu"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:93
+msgid "Şifre"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:99
+msgid "3d Anahtarı"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:105
+msgid "Form Türü"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:109
+msgid "Ödeme Formu"
+msgstr ""
+
+#: class/class-wc_denizpos_gateway.php:110
+msgid "Ortak Ödeme Sayfası"
+msgstr ""
+
+#: index.php:68
+msgid "Ödeme Bilgileri"
+msgstr ""
+
+#: view/payment-form-api.php:107
+msgid "Ödeme"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Denizbank WooCommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Denizbank Payment Gateway for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "garsoft"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.garsoft.com.tr/"
+msgstr ""
